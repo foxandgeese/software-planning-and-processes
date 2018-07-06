@@ -1,8 +1,1 @@
-# Software Planning and Processes
-
-The following documents are process
-
-
-## Templates
-
-- [Five Whys](five-whys-template.md)
+[Please head to the wiki.](https://github.com/foxandgeese/software-planning-and-processes/wiki)
